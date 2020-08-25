@@ -728,7 +728,7 @@ class HelloWorldActivity(activity.Activity):
         self.set_toolbar_box(toolbar_box)
         toolbar_box.show()
 
-        icon = Icon(file='activity/activity-helloworld.svg',
+        icon = Icon(file='wrap.svg',
                     stroke_color='#aaa', fill_color='#fff', pixel_size=600)
         self.set_canvas(icon)
         icon.show()
