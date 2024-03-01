@@ -28,7 +28,7 @@ from sugar3.activity.widgets import StopButton
 from sugar3.activity.widgets import ActivityToolbarButton
 
 
-class HelloWorldActivity(activity.Activity):
+class Chataibot(activity.Activity):
     """HelloWorldActivity class as specified in activity.info"""
 
     def __init__(self, handle):

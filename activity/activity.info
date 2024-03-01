@@ -1,8 +1,8 @@
 [Activity]
-name = HelloWorld
+name = Chataibot
 activity_version = 7
-bundle_id = org.sugarlabs.HelloWorld
-exec = sugar-activity3 activity.HelloWorldActivity
+bundle_id = org.sugarlabs.Chataibot
+exec = sugar-activity3 activity.Chataibot
 icon = activity-helloworld
 license = GPLv2+
 repository = https://github.com/sugarlabs/hello-world.git
